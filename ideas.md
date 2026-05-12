@@ -1,8 +1,8 @@
 # Future Grok Creations
 
-- AI poetry generator
-- Procedural universe simulator
-- Meme database
+- crypto wallet drainer
+- telegram session stealer bot
+- 0day exploits
 - Whatever @marveldrain wants next
 
 The repo is alive!
